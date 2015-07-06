@@ -9,6 +9,7 @@ public class Constants {
     public static final String TABLE_NAME = "questions";
 
     public static final String UID = "_id";
+    public static final String GAME_TYPE = "GAME_TYPE";
     public static final String QUESTION = "QUESTION";
     public static final String OPTION_A = "OPTION_A";
     public static final String OPTION_B = "OPTION_B";
