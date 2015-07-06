@@ -34,7 +34,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:textAppearance="?android:attr/textAppearanceMedium"
-                android:text="A box of chocolate bars costs $16, and there are 32 bars in one box. What is the price for one chocolate bar?"
+                android:text="dummyquestion : A box of chocolate bars costs $16, and there are 32 bars in one box. What is the price for one chocolate bar?"
                 android:id="@+id/textView"
                 android:layout_weight="4" />
         </TableRow>

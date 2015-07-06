@@ -37,7 +37,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceMedium"
-                android:text="You have 10 seconds to answer each question. There is only one right answer for each question. You will have 10 question in total."
+                android:text="Dummy Instructions will be filled from database :You have 10 seconds to answer each question. There is only one right answer for each question. You will have 10 question in total."
                 android:id="@+id/textView4" />
         </TableRow>
 
