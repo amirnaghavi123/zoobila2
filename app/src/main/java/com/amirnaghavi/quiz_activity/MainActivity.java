@@ -19,6 +19,7 @@ public class MainActivity extends ActionBarActivity {
 
         quitbtn = (Button)findViewById(R.id.quit_btn);
         quitbtn.setOnClickListener(new View.OnClickListener() {
+
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this,Game_Menu.class);
