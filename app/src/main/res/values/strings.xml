@@ -1,9 +1,7 @@
 <resources>
-    <string name="app_name">Quiz_Activity</string>
-
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Zoobila</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_instructions">Instructions</string>
     <string name="title_activity_menu">Menu</string>
-    <string name="title_activity_game__menu">Game_Menu</string>
+    <string name="title_activity_game__menu">Game Menu</string>
 </resources>
